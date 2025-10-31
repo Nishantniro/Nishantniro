@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Nishant Niroula
-- 👀 I’m interested in mobile dev
-- 🌱 I’m currently learning mobile dev
-- 💞️ I’m looking to collaborate on mobile dev
-- 📫 How to reach me social media
+- 👀 I’m interested in app dev
+- 🌱 I’m currently learning app dev
+- 💞️ I’m looking to collaborate on app dev
+
 
 <!---
 Nishantniro/Nishantniro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
