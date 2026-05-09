@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nishant Niroula
 - 🌱 I’m currently learning app dev
-- 💞️ I’m looking to collaborate mobile dev
+- 💞️ I’m looking to collaborate android dev
   
 
 
