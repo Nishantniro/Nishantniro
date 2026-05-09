@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nishant Niroula
-- 👀 I’m interested in app dev
 - 🌱 I’m currently learning app dev
-- 💞️ I’m looking to collaborate on app dev
+- 💞️ I’m looking to collaborate mobile dev
+  
 
 
 <!---
